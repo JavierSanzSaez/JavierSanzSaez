@@ -9,5 +9,6 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 
 
 ### Code stats for my profile
+||
 |---|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
