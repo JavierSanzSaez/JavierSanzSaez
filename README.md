@@ -12,7 +12,7 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 - A guide to solve Debian Nvidia backlight control once and for all 🤬
 
 ### ☁️ What am I doing now? ☁️
-I am working at [Arfima Trading](arfima.com) as a Back-End Developer, developing tools to empower the traders' day-to-day, as well as advancing efforts on deploying a technological PaaS for remote financial computing. 
+I am working at [Arfima Trading](https://www.arfima.com) as a Back-End Developer, developing tools to empower the traders' day-to-day, as well as advancing efforts on deploying a technological PaaS for remote financial computing. 
 
 Skills I am improving:
 - Kafka
