@@ -8,6 +8,7 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 
 ### 🌠 Currently looking for... 🌠
 - Web3 projects that are based on complex financial tools 🤓
+- Opportunities where I can take the initiative and spearhead projects!
 - A guide to solve Debian Nvidia backlight control once and for all 🤬
 
 
