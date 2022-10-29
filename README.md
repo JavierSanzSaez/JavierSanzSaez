@@ -6,11 +6,19 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 - DeFi and smart contract programming 🪙
 - Customizing and empowering my Debian distro 🦹🏽‍♂️
 
-### 🌠 Currently looking for... 🌠
+### 🌠 I am looking for... 🌠
 - Web3 projects that are based on complex financial tools 🤓
 - Opportunities where I can take the initiative and spearhead projects!
 - A guide to solve Debian Nvidia backlight control once and for all 🤬
 
+### ☁️ What am I doing now? ☁️
+I am working at [Arfima Trading](arfima.com) as a Back-End Developer, developing tools to empower the traders' day-to-day, as well as advancing efforts on deploying a technological PaaS for remote financial computing. 
+
+Skills I am improving:
+- Kafka
+- Python
+- Flask
+- Docker
 
 ### 💻 Code stats for my profile 💻
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
