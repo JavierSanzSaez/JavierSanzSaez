@@ -5,6 +5,7 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 ### 📖 I'm currently learning... 📖
 - DeFi and smart contract programming 🪙
 - Customizing and empowering my Debian distro 🦹🏽‍♂️
+- Slide design with [reveal-md](https://github.com/webpro/reveal-md)(Madly in love with it)
 
 ### 🌠 I am looking for... 🌠
 - Web3 projects that are based on complex financial tools 🤓
