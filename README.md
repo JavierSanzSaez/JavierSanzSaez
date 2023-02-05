@@ -13,13 +13,14 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 - A guide to solve Debian Nvidia backlight control once and for all 🤬
 
 ### ☁️ What am I doing now? ☁️
-I am working at [Securitize](https://www.securitize.io) as a Software Developer, building with passion!
+I am working at [Securitize](https://www.securitize.io) as a Web3 Front End Developer, building internal tool interfaces and B2C solutions with passion!
 
 Skills I am improving:
 - NodeJs
 - React
 - Solidity
 - Docker
+- Vue.js
 
 ### 💻 Code stats for my profile 💻
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
