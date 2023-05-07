@@ -5,7 +5,8 @@ I am a Telecom Engineer that loves learning about virtually anything (be it soft
 ### 📖 I'm currently learning... 📖
 - DeFi and smart contract programming 🪙
 - Customizing and empowering my Debian distro 🦹🏽‍♂️
-- Slide design with [reveal-md](https://github.com/webpro/reveal-md)(Madly in love with it)
+- Slide design with [reveal-md](https://github.com/webpro/reveal-md) (Madly in love with it)
+- VSCode extension programming (see [my pinned repo](https://github.com/JavierSanzSaez/autocommit_code)!)
 
 ### 🌠 I am looking for... 🌠
 - Web3 projects that are based on complex financial tools 🤓
@@ -21,6 +22,7 @@ Skills I am improving:
 - Solidity
 - Docker
 - Vue.js
+- Typescript
 
 ### 💻 Code stats for my profile 💻
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
