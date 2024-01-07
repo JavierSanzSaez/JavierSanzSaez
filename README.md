@@ -1,12 +1,10 @@
 ## Hiya! I'm Javier!
 
-I am a Telecom Engineer that loves learning about virtually anything (be it software programming, philosophy or random history facts)
+I am a Telecom Engineer who loves learning about virtually anything (be it software programming, philosophy or random history facts!)
 
 ### 📖 I'm currently learning... 📖
-- DeFi and smart contract programming 🪙
-- Customizing and empowering my Debian distro 🦹🏽‍♂️
-- Slide design with [reveal-md](https://github.com/webpro/reveal-md) (Madly in love with it)
-- VSCode extension programming (see [my pinned repo](https://github.com/JavierSanzSaez/autocommit_code)!)
+- Game Development with Unreal Engine 5 (check out my pinned repo!)
+- Note-taking with Obsidian (what an amazing tool!)
 
 ### 🌠 I am looking for... 🌠
 - Web3 projects that are based on complex financial tools 🤓
@@ -23,6 +21,7 @@ Skills I am improving:
 - Docker
 - Vue.js
 - Typescript
+- Micro Front-End development
 
 ### 💻 Code stats for my profile 💻
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
