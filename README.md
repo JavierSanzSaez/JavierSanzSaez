@@ -3,7 +3,7 @@
 I am a Telecom Engineer who loves learning about virtually anything (be it software programming, philosophy or random history facts!)
 
 ### 📖 I'm currently learning... 📖
-- Game Development with Unreal Engine 5 (check out my pinned repo!)
+- Game Development with Unreal Engine 5 (check out my [my pinned repo](https://github.com/JavierSanzSaez/YesMyLiege)!)
 - Note-taking with Obsidian (what an amazing tool!)
 
 ### 🌠 I am looking for... 🌠
