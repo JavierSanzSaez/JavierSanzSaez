@@ -4,6 +4,7 @@ I am a Telecom Engineer who loves learning about virtually anything (be it softw
 
 ### 📖 I'm currently learning... 📖
 - Game Development with Unreal Engine 5 (check out my [my pinned repo](https://github.com/JavierSanzSaez/YesMyLiege)!)
+- Advanced statistics, such as temporal series analysis and Hypothesis contrast.
 - Note-taking with Obsidian (what an amazing tool!)
 
 ### 🌠 I am looking for... 🌠
@@ -12,16 +13,14 @@ I am a Telecom Engineer who loves learning about virtually anything (be it softw
 - A guide to solve Debian Nvidia backlight control once and for all 🤬
 
 ### ☁️ What am I doing now? ☁️
-I am working at [Securitize](https://www.securitize.io) as a Web3 Front End Developer, building internal tool interfaces and B2C solutions with passion!
+I am working at [Synergy Games](https://www.synergygames.es/) as a Web3 Full Stack Developer for their Web3 game Synergy Land.
 
 Skills I am improving:
-- NodeJs
+- Node.js
 - React
 - Solidity
-- Docker
-- Vue.js
 - Typescript
-- Micro Front-End development
+- C#
 
 ### 💻 Code stats for my profile 💻
 |<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSanzSaez&show_icons=true&locale=en&layout=compact" alt="JavierSanzSaez" />|
